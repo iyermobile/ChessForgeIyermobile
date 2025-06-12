@@ -2,7 +2,7 @@ Redirect:
 Message:
 
       
-Bookcase:Pachu
+Bookcase:Pachu1
 Description: Games from Pachu and matches.
 
     Shelf:World Championship 
